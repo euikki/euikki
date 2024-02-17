@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4995&pause=994&color=AC4BE6&center=true&vCenter=true&random=false&width=1000&lines=Hello+devs!!;My+names+is+Ikki;I'm+16+years+old.)](https://git.io/typing-svg)
+
+<h2 align="center"> Hello Devs!</h2>
 <h3 align="center">I'm a small developer who loves coffee. I love playing minecraft and currently I program websites and bots for fun!!!</h3>
 
 - 🎨 Front-end developer.
