@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hello Devs!</h2>
+<h2 align="center"> Hello Devs!  <img src="https://github.com/ikki-jk/ikki-jk/blob/main/icon/Hi.gif"  width="38px" height="38px"/></h2>
 <h3 align="center">I'm a small developer who loves coffee. I love playing minecraft and currently I program websites and bots for fun!!!</h3>
 
 - 🎨 Front-end developer.
