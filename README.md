@@ -4,8 +4,8 @@
 
 - 🎨 Front-end developer.
 - 📚 Learning Javascript.
----
-### Skills and Tools: 💻
+
+## 💻 Skills and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,git,vscode,figma,mongo)](https://skillicons.dev)
 
 <div align="center">  
@@ -13,7 +13,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euikki&layout=compact&hide_border=true&title_color=8A53B1FF&text_color=8A53B1FF&bg_color=0d1117" />
 </div>
 
-#### My current project
+## 📦 My current project
 <p align=center>
    <a href="https://github.com/euikki/Mei" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=euikki&repo=Mei&hide_border=true&title_color=8A53B1FF&text_color=ffffff&icon_color=8A53B1FF&bg_color=0D1117" alt="Mei" ></a><br>
