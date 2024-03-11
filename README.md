@@ -6,7 +6,7 @@
 - 📚 Learning Javascript.
 
 ## 💻 Skills and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,git,vscode,figma,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,nodejs,git,vscode,figma,mongo)](https://skillicons.dev)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=euikki&show_icons=true&hide_border=true&title_color=8A53B1FF&icon_color=8A53B1FF&text_color=c9d1d9&bg_color=0d1117" alt="euikki github stats" /> 
